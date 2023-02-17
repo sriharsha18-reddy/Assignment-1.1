@@ -1,0 +1,20 @@
+1.What are the basic datatypes in python?
+2.What is the data type of print(type(5))?
+3.How many operators are there in Python & what are they?
+4.Difference between assignment and arithmetic operator?
+5.Difference between / and // ?
+6.Difference between % and %= ?
+7.What are the conditional statements?
+8.Difference between if and elif?
+9.Difference between for loop and while loop?
+10.What is Function and how to create a function?
+11.what are the types in Function?
+12.What is meant by argument ?
+13.How to pass a list as parameter 
+14.write a function that accepts a list as an argument?
+15.How do you write a function argument in Python?
+16.what is a recursive function?
+17.what are the different conditional operators in python?
+18.what is a float in python?
+19.what are the user defined datatypes?
+20.what is a tuple?
